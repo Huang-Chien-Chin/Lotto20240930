@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
 
         var txv: TextView = findViewById(R.id.txv)
         txv.text = "0"
+
     }
 }
